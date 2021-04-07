@@ -70,6 +70,8 @@ IP-CIDR,198.18.0.0/16
 IP-CIDR6,::1/128
 IP-CIDR6,fc00::/7
 IP-CIDR6,fe80::/10
+URL-REGEX,^https?:\/\/app\.bilibili\.com\/x\/v2\/splash\/brand\/set
+URL-REGEX,^https?:\/\/www\.didapinche\.com\/app\/adstat.*&ad_type=(ride_paid|benefits)
 USER-AGENT,Coffee%20Corp*
 USER-AGENT,archero*
 USER-AGENT,coffee%20corp*
