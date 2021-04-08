@@ -1,5 +1,4 @@
 [URL Rewrite]
-
 ^http:\/\/dssp\.stnts\.com - reject
 ^http:\/\/www\.google\.cn https://www.google.com 302
 ^http?:\/\/www\.tsytv\.com\.cn\/api\/app\/ios\/ads - reject
